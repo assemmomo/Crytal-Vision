@@ -286,7 +286,7 @@ nav div{
 }
 .halfGlass div button:hover{
     letter-spacing: 2px;
-    background-color: var(--color3--);
+    background-color: var(--darkColor--);
 }
 .fav:hover{
     width: 45px;
