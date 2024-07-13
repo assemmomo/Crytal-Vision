@@ -595,6 +595,9 @@ footer h4{
     }
 }
 @media (min-width:250px) and (max-width:550px){
+     .sec1{
+        background-image: none;
+    }
     .buy p{
         font-size: 15px;
         right: 10px;
